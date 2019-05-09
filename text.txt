@@ -1,0 +1,30 @@
+React tutorials
+
+What is React? 
+- js lib create by FB
+- also used by netflix and insta
+- used to create Js- dynamic web page
+- can be compared to 
+- 'Angular' is a TypeScript-based open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. 
+- and 'Vue' - is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable.
+- React basics - componet, event template props and forms.
+    - Componets: NavBar, SearchBox, Footer = virtualDOM
+    - JSXML - state data, UI state contains JS for functionality. 
+- React Router - routees, route parameter and redirects.
+- Reux - stores, actions and reducers.
+
+
+
+
+
+
+
+
+What is Redux? 
+- is a predictable state container for JavaScript apps.
+- a Layer on top of React
+- Help with the state management of our app: data in the app and UI state of the app. Ex. Menu open or close.
+- Redux makes it easy to manage the state of your application.
+- Another way of looking at this – it helps you manage the data you display and how you respond to user actions.
+
+
